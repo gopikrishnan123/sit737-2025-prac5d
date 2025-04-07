@@ -10,14 +10,12 @@ This project contains a simple Node.js web server containerized with Docker and 
 4. Pushed the Docker image to:
 5. Verified the upload via GCP Console.
 
-## 📸 Screenshots
-Refer to the `/screenshots` folder for all required task evidence.
-
 ## 🧠 Tools Used
 - Node.js
 - Docker
 - Google Cloud CLI (`gcloud`)
 - Google Artifact Registry
+
 
 ## ✅ Status
 ✔️ Task Completed – Image pushed to Artifact Registry successfully.
@@ -28,5 +26,5 @@ sit737-2025-5.2d/
 ├── package.json
 ├── package-lock.json
 ├── README.md ✅
-├── SIT737-5.2D.pdf ✅
+✅
 
